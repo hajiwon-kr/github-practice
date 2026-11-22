@@ -7,6 +7,20 @@
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "resume-ats-optimizer": {
+      "source": "paramchoudhary/resumeskills",
+      "commit": "74ae19e7c62b0516d1c298328e5544976c12da5d",
+      "sourceType": "github",
+      "skillPath": "skills/resume-ats-optimizer/SKILL.md",
+      "computedHash": "2f5a3267a0a7c1e63ebf22575e46556992ec821ead006f85122fa2c0960aa3e7"
+    },
+    "social": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "sourceType": "github",
+      "skillPath": "skills/social/SKILL.md",
+      "computedHash": "d4e3f754e4f6a1ef99a79f038656f53ae7d560492f06c6be075b400c614b20d4"
     }
   }
 }
