@@ -1,0 +1,13 @@
+name: 첫 자동화
+
+on:
+  workflow_dispatch:
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 인사하기
+        run: echo "안녕하세요, Actions가 실행됐어요!"
+      - name: 현재 시간 출력
+        run: TZ=Asia/Seoul date
