@@ -2,6 +2,8 @@ name: 첫 자동화
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   hello:
